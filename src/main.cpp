@@ -1,5 +1,5 @@
 #include <iostream>
-#include "autonomy/lib.h"
+#include "lib.h"
 
 int main()
 {

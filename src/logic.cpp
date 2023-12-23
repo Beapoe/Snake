@@ -1,8 +1,8 @@
 #include <iostream>
 #include <list>
-#include "autonomy/global.h"
-#include "autonomy/display.h"
-#include "autonomy/logic.h"
+#include "global.h"
+#include "display.h"
+#include "logic.h"
 
 using namespace std;
 

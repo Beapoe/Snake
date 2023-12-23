@@ -2,8 +2,8 @@
 #include <ctime>
 #include <stdlib.h>
 #include <list>
-#include "autonomy/global.h"
-#include "autonomy/display.h"
+#include "global.h"
+#include "display.h"
 
 using namespace std;
 
