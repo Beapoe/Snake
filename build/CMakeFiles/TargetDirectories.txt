@@ -1,4 +1,0 @@
-/data/data/com.termux/files/home/C++/Project/Snake/build/CMakeFiles/Snake.dir
-/data/data/com.termux/files/home/C++/Project/Snake/build/CMakeFiles/Snake_lib.dir
-/data/data/com.termux/files/home/C++/Project/Snake/build/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/C++/Project/Snake/build/CMakeFiles/rebuild_cache.dir

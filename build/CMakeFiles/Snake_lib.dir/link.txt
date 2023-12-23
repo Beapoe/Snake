@@ -1,2 +1,0 @@
-/data/data/com.termux/files/usr/bin/llvm-ar qc libSnake_lib.a CMakeFiles/Snake_lib.dir/src/lib.cpp.o CMakeFiles/Snake_lib.dir/src/display.cpp.o CMakeFiles/Snake_lib.dir/src/logic.cpp.o
-/data/data/com.termux/files/usr/bin/llvm-ranlib libSnake_lib.a
